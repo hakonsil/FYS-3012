@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 import scipy as sc
+#
 
 # Importing the data
 dataset = sc.io.loadmat('Home-exam\ExamData3D.mat')
